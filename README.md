@@ -5,7 +5,7 @@
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
 
-- **Diseña un programa para calcular el cociente y residuo de una división mediante restas sucesivas**. Ejemplo: Para dividir 50 entre 11, podemos restar 11 de 50 y se obtiene 39, a este resultado se le puede restar 11 para dar 28. Se puede restar de nuevo y da 17. Una resta más arroja un resultado de 6. La siguiente resta daría un número negativo. En total se hicieron 4 restas (cociente) y el remanente final (residuo) fue 6.
+- **Diseña un programa para calcular el cociente y residuo de una división mediante restas sucesivas**. Ejemplo: Para dividir 50 entre 11, podemos restar 11 de 50 y se obtiene 39, a este resultado se le puede restar 11 para dar 28. Se puede restar de nuevo y da 17. Una resta más arroja un resultado de 6. La siguiente resta daría un número negativo. En total se hicieron 4 restas (cociente) y el remanente final (residuo) fue 6. ***No deberás usar otras operaciones que no sean sumas y restas en tu solución***.
 
 - Codifica tu solución en el archivo [`main.py`](/main.py).
    

@@ -3,7 +3,7 @@
     on:
       push:
         paths:
-          - 'main.py'
+          - 'dividir_con_restas.py'
           - '.github/classroom/autograding.json'
 
     jobs:

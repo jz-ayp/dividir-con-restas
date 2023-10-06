@@ -1,15 +1,18 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Dividir con restas.
 """
 
-# Declaraciones
-CONSTANTE = valor
-
 # Entradas
-entrada = input()
+dividendo = int(input("Dividendo: "))
+divisor = int(input("Divisor: "))
 
 # Proceso
-
+cociente = 0
+residuo = dividendo
+while residuo >= divisor:
+    residuo -= divisor
+    cociente += 1
 
 # Salidas
-print(salida)
+print("Cociente:", cociente)
+print("Residuo:", residuo)

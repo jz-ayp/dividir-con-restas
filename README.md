@@ -18,7 +18,7 @@
   
   Introduzca el dividendo: 999
   Introduzca el divisor: 3
-  El cociente es 111
+  El cociente es 333
   El residuo es 0
   ```
   
@@ -33,7 +33,7 @@ Completa este y el resto de los ejercicios y compila, para cada ejercicio, el en
 | Entradas | Salidas |
 |:---------|:--------|
 | `50`<br>`11` | `El cociente es 4`<br>`El residuo es 6`|
-| `999`<br>`3` | `El cociente es 111`<br>`El residuo es 0`|
+| `999`<br>`3` | `El cociente es 333`<br>`El residuo es 0`|
 
 ## Rúbrica
 Verifica tu entrega contra la rúbrica disponible en Canvas para maximizar tu calificación.

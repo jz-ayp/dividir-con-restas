@@ -1,0 +1,44 @@
+{
+  "assignments": [
+    {
+      "tests": [
+        {
+          "name": "218/53",
+          "type": "io",
+          "run": "python3 dividir_con_restas.py",
+          "points": 1,
+          "comparison": "regex",
+          "input": "218\r\n53",
+          "expected": "^\\D*4\\D+6\\D*$"
+        },
+        {
+          "name": "750/25",
+          "type": "io",
+          "run": "python3 dividir_con_restas.py",
+          "points": 1,
+          "comparison": "regex",
+          "input": "750\r\n25",
+          "expected": "^\\D*30\\D+0\\D*$"
+        },
+        {
+          "name": "63/63",
+          "type": "io",
+          "run": "python3 dividir_con_restas.py",
+          "points": 1,
+          "comparison": "regex",
+          "input": "63\r\n63",
+          "expected": "^\\D*1\\D+0\\D*$"
+        },
+        {
+          "name": "657/659",
+          "type": "io",
+          "run": "python3 dividir_con_restas.py",
+          "points": 1,
+          "comparison": "regex",
+          "input": "657\r\n659",
+          "expected": "^\\D*0\\D+657\\D*$"
+        }
+      ]
+    }
+  ]
+}

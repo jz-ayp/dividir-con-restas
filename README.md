@@ -32,8 +32,8 @@ Completa este y el resto de los ejercicios y compila, para cada ejercicio, el en
 ## Casos de prueba de ejemplo
 | Entradas | Salidas |
 |:---------|:--------|
-| `50`<br>`11` | `El cociente es 4`<br>`El residuo es 6`|
-| `999`<br>`3` | `El cociente es 333`<br>`El residuo es 0`|
+| `50`<br>`11` | `4`<br>`6`|
+| `999`<br>`3` | `333`<br>`0`|
 
 ## Rúbrica
 Verifica tu entrega contra la rúbrica disponible en Canvas para maximizar tu calificación.
